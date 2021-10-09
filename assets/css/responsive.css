@@ -1,0 +1,25 @@
+@media all and (max-width: 767px){
+	.container{
+		width: 90%;
+	}
+	.header{
+		flex-direction: column;
+		justify-content: center;
+	}
+	.logo img{
+		margin-left: 0px;
+	}
+	.menu ul{
+		flex-direction: column;
+		margin-top: 20px;
+	}
+	.menu ul li a{
+		margin-left: 0px;
+		text-align: center;
+	}
+	
+}
+@media all and (max-width: 480px){
+
+}	
+
